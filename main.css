@@ -1,0 +1,38 @@
+body
+{
+	height:auto;
+	box-sizing:border-box;
+	/*#73C2FB*/
+ }
+.container
+{
+    background: #ccc;
+    margin-left: 30px;
+    font-size: 30px;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    margin: auto 
+}
+
+{
+	line-height:1.5;
+	font-size:20px;
+	color:#333;
+	margin:auto;
+	width:800px;
+}
+h1
+{
+    {
+	line-height:1.5;
+	font-size:20px;
+	color:#333;
+	margin:auto;
+	width:800px;
+}
+}

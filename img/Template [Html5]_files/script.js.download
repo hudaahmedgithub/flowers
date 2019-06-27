@@ -1,0 +1,86 @@
+function HoverButton()
+{
+	
+	document.getElementById("butt").style.backgroundColor="#ff9988";
+	
+	
+}
+function Hover()
+{
+	
+	document.getElementById("butt").style.backgroundColor="#a90329";
+	
+	
+}
+function visible()
+{
+	
+	document.getElementById("Click").style.visibility="visible";
+}	
+function on()
+{
+	
+	document.getElementById("onc").style.backgroundColor="#cc6600";
+}
+function m1()
+{
+	
+	document.getElementById("m").style.backgroundColor="#cc6600";
+}
+function mm1()
+{
+	
+	document.getElementById("m").style.backgroundColor="#996600";
+}
+function m2()
+{
+	
+	document.getElementById("m").style.backgroundColor="#990033";
+}
+function mm2()
+{
+	
+	document.getElementById("mm").style.backgroundColor="#990033";
+}
+function on2()
+{
+	
+	document.getElementById("onc").style.backgroundColor="#990033";
+}
+function hide()
+{
+	
+	document.getElementById("Click").style.visibility="hidden";		
+	
+}
+function hee()
+{
+	
+	window.location="hee.html";
+}
+
+function hee1()
+{
+	
+	window.location="h1.html";
+}
+function clic()
+{
+	
+window.location="head.html";
+}
+function h2()
+{
+	
+window.location="h2.html";
+}
+function h3()
+{
+	
+window.location="h3.html";
+}
+function j()
+{
+	
+window.location="h3.html";
+}
